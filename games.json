@@ -1,0 +1,22 @@
+{
+  "input": {
+    "ageGroups": [],
+    "interests": [],
+    "platforms": [],
+    "supportedLanguages": [],
+    "hasInAppPurchases": false,
+    "horizontal": false,
+    "vertical": false,
+    "search": "Steal a Brainrot! 100% Original"
+  },
+  "sort": {
+    "type": "ranking_default"
+  },
+  "segments": [
+    {
+      "title": "Specially for you",
+      "count": 0,
+      "hits": []
+    }
+  ]
+}
